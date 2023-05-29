@@ -1,3 +1,3 @@
-Lack of Language
+Book
 ========================
-**LL** is a concatenative programming language
+**Book** is book and a concatenative programming language
